@@ -14,7 +14,7 @@ O PersonalBudget é um aplicativo fácil de usar, projetado para ajudar indivíd
 
 ## Capturas de Tela
 
-![Painel do PersonalBudget](screenshots/painel.png)
+![Painel do PersonalBudget](img/screenshot.png)
 
 ## Como Usar
 
